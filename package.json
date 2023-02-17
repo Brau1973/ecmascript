@@ -1,0 +1,11 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "Features that have been released in the different versions of ecmascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Braulio Jaureguy",
+  "license": "MIT"
+}
